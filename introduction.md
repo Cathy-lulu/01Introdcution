@@ -5,7 +5,7 @@
   * [License Agreement](#licenseagreement)
   * [RT-Thread Frame](#rt-threadframe)
 
-# RT-Thread Introduction 
+# rt-threadintroduction 
 
 As a beginner of RTOS, you might be new to RT-Thread. However, with a better understanding of it overtime, you will gradually discover the charm of RT-Thread and its advantages over other RTOSs of the same type. RT-Thread is an Embedded Real-time Operating System (RTOS) . After nearly 12 years of experiences accumulated, along with the rise of the Internet of Things, it is evolving into a powerful, component-rich IoT operating system.  
 
