@@ -9,7 +9,7 @@
 
 As a beginner of RTOS, you might be new to RT-Thread. However, with a better understanding of it overtime, you will gradually discover the charm of RT-Thread and its advantages over other RTOSs of the same type. RT-Thread is an Embedded Real-time Operating System (RTOS) . After nearly 12 years of experiences accumulated, along with the rise of the Internet of Things, it is evolving into a powerful, component-rich IoT operating system.  
 
-## RT-Thread Overview 
+## rt-thread overview 
 
 RT-Thread, short for Real Time-Thread, as its name implies, is an embedded real-time multi-threaded operating system. One of its basic properties is to support multi-tasking. Allowing multiple tasks to run at the same time does not mean that the processor actually performed multiple tasks at the same time. In fact, a processor core can only run one task at a time. Every task is executed quickly, and through the task scheduler  (the scheduler determines the sequence according to priority),  the tasks are switched rapidly which gives the illusion that multiple tasks are running at the same time. In the RT-Thread system, the task is implemented by threads. The thread scheduler in RT-Thread is the task scheduler mentioned above.
 
@@ -17,11 +17,11 @@ RT-Thread is mainly written in C language, easy to understand and easy to port. 
 
 Compared with the Linux operating system, RT-Thread is small in size, low in cost, low in power consumption and fast in startup. In addition, RT-Thread has high instantaneity and low occupation, which is very suitable for various resource constraints (such as cost, power consumption, etc.). Although the 32-bit MCU is its main operating platform, other CPUs, ones with MMU, ones based on ARM9, ARM11 and even the Cortex-A series CPUs are suitable for RT-Thread in specific applications.
 
-## License Agreement
+## license agreement
 
 The RT-Thread system is a completely open source system, the 3.1.0 version and its earlier versions follow the GPL V2 + open source license agreement. Versions from the 3.1.0 version onwards follow the Apache License 2.0 open source license agreement. The RT-Thread system can be used free of charge in commercial products and does not require opening private code to the public.
 
-## RT-Thread Frame
+## rt-thread frame
 
 In recent years, the concept of Internet of Things (IoT) has become widely known , and the Internet of Things market has developed rapidly. The networking of embedded devices is the trend of the times. Terminal networking has greatly increased the complexity of software. The traditional RTOS kernel can hardly meet the needs of the market. In this case, the concept of the Internet of Things Operating System (IoT OS) came into being. **IoT operating system refers to the software platform that is based on operating system kernel (like RTOS, Linux, etc.) and includes relatively complete middleware components such as file system, graphics library, etc. It is low in consumption and high in secure, abides by the Communication Protocol and has cloud-connect abilities.** RT-Thread is an IoT OS. 
 
