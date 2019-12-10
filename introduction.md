@@ -1,7 +1,7 @@
 # Table of Contents
 
 * [RT-Thread Introduction](#RT-ThreadIntroduction)
-  * [RT-Thread Overveiw](#RT-ThreadOverview )
+  * [RT-Thread Overveiw](#RT-ThreadOverview)
   * [License Agreement](#LicenseAgreement)
   * [RT-Thread Frame](#RT-ThreadFrame)
 
