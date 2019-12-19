@@ -1,9 +1,9 @@
 # Table of Contents
 
-* [RT-Thread Introduction](#rt-thread-introduction)
-  * [RT-Thread Overveiw](#rt-thread-overview)
-  * [License Agreement](#license-agreement)
-  * [RT-Thread Architecture](#rt-thread-architecture)
+* [RT-Thread Introduction](#rt-threadintroduction)
+  * [RT-Thread Overveiw](#rt-threadoverview)
+  * [License Agreement](#licenseagreement)
+  * [RT-Thread Architecture](#rt-threadarchitecture)
 
 # rt-threadintroduction 
 
