@@ -1,9 +1,9 @@
 # Table of Contents
 
-* [RT-Thread Introduction](#rt-threadintroduction)
-  * [RT-Thread Overveiw](#rt-threadoverview)
-  * [License Agreement](#licenseagreement)
-  * [RT-Thread Frame](#rt-threadframe)
+* [RT-Thread Introduction](#rt-thread-introduction)
+  * [RT-Thread Overveiw](#rt-thread-overview)
+  * [License Agreement](#license-agreement)
+  * [RT-Thread Architecture](#rt-thread-architecture)
 
 # rt-threadintroduction 
 
@@ -21,7 +21,7 @@ Compared with the Linux operating system, RT-Thread is small in size, low in cos
 
 The RT-Thread system is a completely open source system, the 3.1.0 version and its earlier versions follow the GPL V2 + open source license agreement. Versions from the 3.1.0 version onwards follow the Apache License 2.0 open source license agreement. The RT-Thread system can be used free of charge in commercial products and does not require opening private code to the public.
 
-## rt-threadframe
+## rt-threadarchitecture
 
 In recent years, the concept of Internet of Things (IoT) has become widely known , and the Internet of Things market has developed rapidly. The networking of embedded devices is the trend of the times. Terminal networking has greatly increased the complexity of software. The traditional RTOS kernel can hardly meet the needs of the market. In this case, the concept of the Internet of Things Operating System (IoT OS) came into being. **IoT operating system refers to the software platform that is based on operating system kernel (like RTOS, Linux, etc.) and includes relatively complete middleware components such as file system, graphics library, etc. It is low in consumption and high in secure, abides by the Communication Protocol and has cloud-connect abilities.** RT-Thread is an IoT OS. 
 
